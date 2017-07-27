@@ -1,0 +1,20 @@
+{
+  "name": "nodeproject",
+  "description": "Working with mean stack",
+  "main": "app.js",
+  "authors": [
+    "Chris Davis"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/chrisdav6/Udemy--Learn-Mean-Stack",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
